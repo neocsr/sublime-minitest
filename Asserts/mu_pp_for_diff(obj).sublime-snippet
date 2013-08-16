@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-mu_pp_for_diff(${1:obj})
+mu_pp_for_diff ${1:obj}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mmppfd</tabTrigger>
